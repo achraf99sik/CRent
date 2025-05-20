@@ -1,0 +1,10 @@
+{
+    "require": {
+        "stripe/stripe-php": "^17.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
