@@ -1,4 +1,7 @@
 <?php
+
+use App\Core\model;
+
 class user extends model
 {
     public $errors = [];
