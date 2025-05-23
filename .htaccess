@@ -1,1 +1,2 @@
 DirectoryIndex public/index.php
+ErrorDocument 404 /CRent/404.html
